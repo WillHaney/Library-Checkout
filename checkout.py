@@ -1,11 +1,3 @@
-# File: checkout.py
-# Author: Will Haney
-# Date: 06/27/2023
-# Section: 700
-# E-mail: willhaney@tamu.edu
-# Description:
-# This program asks for the user to enter the number of unique books titles they are looking to purchase and calculates the price accordingly
-
 import datetime
 
 unique_book_titles = int(input(f"Enter the number of unique book titles: "))
